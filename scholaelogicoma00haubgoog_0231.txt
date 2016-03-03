@@ -1,0 +1,46 @@
+ 
+
+,ι ’
+²¹4 C'Ar. VI. Theor. Ἰ. Elem. eiusque eonseet.
+” ’ 5. 239.' ’
+
+ι Χ
+
+Sed ut ad ea accedamuS, quae in fronte Capitis
+huiusce significavimus, indirecto illo argumentandi
+genere demonstrabuntur jam duae propositiones quar-
+tam Euclidis convertentes, qualum utramque per plu-
+res applicationes, persequemur respondentes iis, quae
+in eapite 1 et '2do traditae sunt, 'applicationibus pro·
+positionis quartae: unde sequentia commode in duas
+
+’ ιΡιίῑιῑειει distribuentur.
+
+Pars If·
+·§.2-40.·2
+
+κ Propositio prior convertens quartam:
+
+Si duo triangula latus lateri aequale habeant, et
+angulum angulo aequalem, qui illi lateri adjacet, et
+
+„ ipsa triangula in'ter se aequalia sint (seu aequalem are· ,
+
+am habeant, seu si aequalia spatia comprehensa sint
+utriusque perimetro): habebunt et reliquum latus reli-
+quo lateri aequale, quod dioto angulo adjacet, et ba-
+sim basi aequalem, et angulos ad basin angulis ad ba-
+sin aequales, tam eum, qui singulis dictorum aequa-
+lium laterum subtenditur, quam reliquum aequalibus
+
+lateribus adjacentem.
+Sint duo triangula A B C, D E F habentia latus
+
+ΡΨ· A B lateri DE aequale, et angulum BAC an
+η’ gulo DEF aequalem, et ipsa inter se aequalia
+(seu aequalem aream habentia): dico reliquum quoque
+latus AC reliquo DF aequale esse, et basin BC basi
+
+E F aequalem, et angulum A C B angulo DF E aequa· ι
+lem, qui quidem aequalibus lateribus AB, D Ε subten-
+
